@@ -2,5 +2,5 @@
 
 using AOC2023;
 
-DaySeven.Run();
+DayTen.Run();
 
